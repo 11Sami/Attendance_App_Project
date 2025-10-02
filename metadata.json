@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Secure Attendance Snap",
+  "description": "A secure attendance application that captures a user's photo along with their real-time location and timestamp to ensure verifiable check-ins.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
